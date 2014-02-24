@@ -9,3 +9,4 @@ git diff filename
 git branch branch_name
 git checkout branch_name
 
+this lack comments that are at exercise branch

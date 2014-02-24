@@ -9,3 +9,5 @@ git diff filename
 git branch branch_name
 git checkout branch_name
 
+also that what is commited at master can not be seen anymore at testing brach, but before
+

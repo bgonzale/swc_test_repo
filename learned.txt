@@ -9,4 +9,7 @@ git diff filename
 git branch branch_name
 git checkout branch_name
 
-this lack comments that are at exercise branch
+this DO NOT lack comments that are at exercise branch
+
+also that what is commited at master can not be seen anymore at testing brach, but before
+
